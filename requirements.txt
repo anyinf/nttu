@@ -1,0 +1,10 @@
+shap==0.50.0
+eli5==0.16.0
+pip
+wordcloud
+stylecloud
+jieba
+pip
+lifelines==0.30.0
+statsmodels==0.14.6
+pingouin==0.5.5
